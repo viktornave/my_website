@@ -1,3 +1,3 @@
 # my_website
 
-*italits
+* italics
