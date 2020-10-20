@@ -92,27 +92,27 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
+      title = "Alcohol consumption : An international comparison"
+     # subtitle = "Ipsum Dolor Sit Amet"
+      image = "beer-wine.jpg"
       url = "blogs/blog1"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
+      title = "Global Warming"
+    #  subtitle = "Feugiat Amet Tempus"
+      image = "global-warming.jpg"
       url = "blogs/blog2"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
+      title = "IMDB Ratings; Who is better? Spielberg vs Burton"
+    #  subtitle = "Lorem Etiam Nullam"
+      image = "S-B.jpg"
       url = "blogs/blog3"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
+      title = "Yield curve inversion"
+    #  subtitle = "Nisl Sed Aliquam"
+      image = "bull.jpg"
       url = "blogs/blog4"
 
     #[[params.tiles.showcase]]
@@ -187,7 +187,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "EVAN Group PLC"
 
     # Uses font awesome icons
    # [[params.footer.social]]
@@ -205,14 +205,14 @@ disqusShortname = ""
      # url= "https://www.instagram.com"
      # label = "Instagram"
     
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
+   # [[params.footer.social]]
+   #   icon = "fa-github"
+   #   url= "https://www.github.com"
+    #  label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "www.linkedin.com/in/viktor-nave"
       label = "LinkedIn"
 
    # [[params.footer.quicklinks]]
